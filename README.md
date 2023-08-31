@@ -4,13 +4,13 @@
 - Knows bit of everything (Experimenting what to do)
 - Making films (#taborbude)
 
-## Things I know (a bit)
+### Things I know (a bit)
 
 - **Developing in** Godot, Scratch, Roblox Studio
 - **Programming in** Python, Java, C, Lua
 - **Making** Websites (CSS sucks)
 
-## Things I'm learning
+### Things I'm learning
 
 - **Developing in** LabView, Unity
 - **Programming in** C#, Javascript
